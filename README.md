@@ -25,24 +25,14 @@ knowledge of Python (I've used iPython notebook but you can run this code on wha
 
 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-
-
-## Authors
-
-* **Saurabh Annadate** 
-
-
+## Suggestions and Contributions
+Feel free to do any of the above things!
 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* All the algorithms are inspired from the very nice book by  Michael Nielsen, [Neural Networks and Deep Learning.](http://neuralnetworksanddeeplearning.com/index.html) 
+* Also thanks to the nice video series on Neural Networks by [3 blue 1 brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 
 
