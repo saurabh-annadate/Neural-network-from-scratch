@@ -1,6 +1,6 @@
-# Project Title
+# Recognize handwritten numbers in MNIST dataset using Neural Network
 
-Recognize handwritten numbers in MNIST dataset using Neural Network
+
 
 ## Side note 
 In this project I have tried to make Neural networks to classify MNIST number dataset.
