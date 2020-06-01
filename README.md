@@ -11,7 +11,7 @@ This was my term project for machine learning course, so mostly my codes are bas
 I'll not cover how neural network works in backend, so you should know its working.
 ```
 ```
-knowledge of Python (I've used iPython notebook but you can run this code on whatever you are comfortable with.
+knowledge of Python (I've used iPython notebook).
 ```
 ## Outline of the project
 * Neural network of zero hidden layer.
@@ -25,8 +25,6 @@ knowledge of Python (I've used iPython notebook but you can run this code on wha
 
 
 
-## Suggestions and Contributions
-Feel free to do any of the above things!
 
 
 ## Acknowledgments
