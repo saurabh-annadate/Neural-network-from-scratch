@@ -17,7 +17,10 @@ knowledge of Python (I've used iPython notebook).
 * Neural network of zero hidden layer.
 * hidden layer which uses sigmoid function as activation function and softmax final layer
 * Network with 2 hidden layers
-* Neural Network with 2 hidden layers with choices for choosing activation function 1) tanh, 2) relu,3) sigmoid.
+* Neural Network with 2 hidden layers with choices for choosing activation function
+    * tanh
+    * relu
+    * sigmoid.
 * Implementing momentum with gradient descent and adding epochs for multiple iterations
 
 
